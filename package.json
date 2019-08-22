@@ -1,0 +1,15 @@
+{
+  "name": "rabbitmq",
+  "version": "1.0.0",
+  "description": "his library is useful for RabbitMQ subscriber and consumer to send and receive message to queue",
+  "main": "rabbitmqLib.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Sushank Kudkar <sushank.kudkar@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5"
+  }
+}
