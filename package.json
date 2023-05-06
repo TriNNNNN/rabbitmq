@@ -10,6 +10,6 @@
   "author": "Sushank Kudkar <sushank.kudkar@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "amqplib": "^0.5.5"
+    "amqplib": "^0.10.3"
   }
 }
